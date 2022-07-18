@@ -55,7 +55,7 @@ Dentro de la opción **Launchers** se encuentran los métodos que se utilizarán
 
 ![Launchers](https://user-images.githubusercontent.com/36284620/179450862-59466254-9fe4-4948-a669-a60257e30664.PNG)
 
-En **Grunts** podemos observar las sesiones de las máquinas objetivo vinculadas a nuestro Covenant. Podemos interactuar con cada una de estas sesiones; sin embargo, se observará en el siguiente artículo donde se utilizará este C2 en el **Metasploiteable 3**.
+En **Grunts** podemos observar las sesiones de las máquinas objetivo vinculadas a nuestro Covenant. Podemos interactuar con cada una de estas sesiones; sin embargo, se observará en los puntos siguientes cómo  se utilizará este C2 en el **Metasploiteable 3**.
 
 ![Grunts](https://user-images.githubusercontent.com/36284620/179451333-d56abfdf-0348-458a-b6e3-8d834d2a4401.PNG)
 
